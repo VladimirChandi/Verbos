@@ -1,0 +1,19 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "PRUEBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirChandi/PruebaLeibniz.git"
+  },
+  "author": "vladimir chandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladimirChandi/PruebaLeibniz/issues"
+  },
+  "homepage": "https://github.com/VladimirChandi/PruebaLeibniz#readme"
+}
